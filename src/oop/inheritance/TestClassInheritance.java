@@ -9,17 +9,16 @@ public class TestClassInheritance {
 		ClassC classC = new ClassC();
 		classC.methodC();
 		
+		ClassD classD = new ClassD();
+		classC.methodD();
+		
+		
 		
 		
 	
 		
 		
 	
-		
-		
-		
-		
-
 	}
 
 }
